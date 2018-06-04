@@ -1,1 +1,3 @@
 git init : Create a new local repository
+
+my first git.
